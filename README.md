@@ -2,6 +2,8 @@
 
 Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio Short Bio
 
+[Check out my Portfolio Website](https://nadinejuraschek.com)
+
 ---
 ##### I'm currently working with:
 <a href="#" title="BitBucket"><img src="icons/bitbucket.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
