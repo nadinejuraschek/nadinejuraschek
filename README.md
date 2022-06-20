@@ -16,20 +16,20 @@ Any feedback is highly appreciated.
 
 ###### Programming Languages
 
-<div style="display: flex; align-items: center; gap: 0.5rem;">
+<div style="display: flex; align-items: center; gap: 1rem;">
   <a href="#" title="JavaScript"><img src="icons/js.svg" /></a>
   <a href="#" title="TypeScript"><img src="icons/ts.svg" /></a>
 </div>
 
 ###### Runtime Environments
 
-<div style="display: flex; align-items: center; gap: 0.5rem;">
+<div style="display: flex; align-items: center; gap: 1rem;">
 <a href="#" title="Node"><img src="icons/node.svg" /></a>
 </div>
 
 ###### Frameworks and Libraries
 
-<div style="display: flex; align-items: center; gap: 0.5rem;">
+<div style="display: flex; align-items: center; gap: 1rem;">
 <a href="#" title="Angular"><img src="icons/angular.svg" /></a>
 <a href="#" title="Bootstrap"><img src="icons/bootstrap.svg" /></a>
 <a href="#" title="Bulma"><img src="icons/bulma.svg" /></a>
@@ -45,7 +45,7 @@ Any feedback is highly appreciated.
 
 ###### Databases
 
-<div style="display: flex; align-items: center; gap: 0.5rem;">
+<div style="display: flex; align-items: center; gap: 1rem;">
 <a href="#" title="Mongo DB"><img src="icons/mongo.svg" /></a>
 <a href="#" title="Firebase"><img src="icons/firebase.svg" /></a>
 <a href="#" title="MySQL"><img src="icons/mysql.svg" /></a>
@@ -59,6 +59,8 @@ Any feedback is highly appreciated.
 
 #### Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadinejuraschek&show_icons=true&bg_color=FFFFFF&count_private=true&text_color=363636&icon_color=F16159&title_color=F16159&hide=stars,issues&include_all_commits=true&hide_title=true" alt="Stats" />
+<div style="display: flex; flex-direction: column;">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadinejuraschek&show_icons=true&bg_color=FFFFFF&count_private=true&text_color=363636&icon_color=F16159&title_color=F16159&hide=stars,contribs&include_all_commits=true&hide_title=true&count_private=true" alt="Stats" />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinejuraschek&bg_color=FFFFFF&hide_title=true&layout=compact&hide=tsql&title_color=F16159&hide_title=true)" alt="Language Stats" />
+</div>
