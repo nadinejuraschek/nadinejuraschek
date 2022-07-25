@@ -10,57 +10,49 @@ Any feedback is highly appreciated.
 
 ---
 
-#### Featured Projects
+###### Programming and Markup Languages
 
----
-
-###### Programming Languages
-
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <a href="#" title="JavaScript"><img src="icons/js.svg" /></a>
-  <a href="#" title="TypeScript"><img src="icons/ts.svg" /></a>
-</div>
-
-###### Runtime Environments
-
-<div style="display: flex; align-items: center; gap: 1rem;">
-<a href="#" title="Node"><img src="icons/node.svg" /></a>
-</div>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-CC6699?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 ###### Frameworks and Libraries
 
-<div style="display: flex; align-items: center; gap: 1rem;">
-<a href="#" title="Angular"><img src="icons/angular.svg" /></a>
-<a href="#" title="Bootstrap"><img src="icons/bootstrap.svg" /></a>
-<a href="#" title="Bulma"><img src="icons/bulma.svg" /></a>
-<a href="#" title="Gatsby.js"><img src="icons/gatsby.svg" /></a>
-<a href="#" title="jQuery"><img src="icons/jquery.svg" /></a>
-<a href="#" title="Next.js"><img src="icons/nextjs.svg" /></a>
-<a href="#" title="React"><img src="icons/react.svg" /></a>
-<a href="#" title="Semantic UI"><img src="icons/semanticui.svg" /></a>
-<a href="#" title="Sass"><img src="icons/sass.svg" /></a>
-<a href="#" title="Storybook"><img src="icons/storybook.svg" /></a>
-<a href="#" title="styled-components"><img src="icons/styledcomp.svg" /></a>
-</div>
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00C4A7?style=flat-square&logo=bulma&logoColor=white" />
+<img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-571D90?style=flat-square&logo=gatsby&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Semantic UI" src="https://img.shields.io/badge/-Semantic UI-34BDB2?style=flat-square&logo=semantic-ui&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 
-###### Databases
+###### Databases, Cloud Platforms, and Query Languages
 
-<div style="display: flex; align-items: center; gap: 1rem;">
-<a href="#" title="Mongo DB"><img src="icons/mongo.svg" /></a>
-<a href="#" title="Firebase"><img src="icons/firebase.svg" /></a>
-<a href="#" title="MySQL"><img src="icons/mysql.svg" /></a>
-</div>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA29?style=flat-square&logo=firebase&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-3F6E93?style=flat-square&logo=mysql&logoColor=white" />
 
-</div>
+###### Other Tools
+
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 
 [comment]: <> (##### I'm currently studying:)
 
 ---
 
-#### Stats
+### Stats
 
 <div style="display: flex; flex-direction: column;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadinejuraschek&show_icons=true&bg_color=FFFFFF&count_private=true&text_color=363636&icon_color=F16159&title_color=F16159&hide=stars,contribs&include_all_commits=true&hide_title=true&count_private=true" alt="Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nadinejuraschek&show_icons=true&bg_color=FFFFFF&count_private=true&text_color=363636&icon_color=F16159&title_color=F16159&hide=stars,contribs&include_all_commits=true&hide_title=true&count_private=true" alt="Stats" style="width: 100%;" />
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinejuraschek&bg_color=FFFFFF&hide_title=true&layout=compact&hide=tsql&title_color=F16159&hide_title=true)" alt="Language Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinejuraschek&bg_color=FFFFFF&hide_title=true&layout=compact&hide=tsql&title_color=F16159&hide_title=true)" alt="Language Stats" style="width: 100%;" />
 </div>
