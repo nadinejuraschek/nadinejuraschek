@@ -1,12 +1,12 @@
 ## Welcome to my Github Profile!
 
-As a former Teacher and Childcare Professional turned Frontend Web Developer, I create lots of education- and community-related personal projects that can help solve real-world issues or automate and speed up recurring tasks.
+Former Teacher and Childcare Professional turned Frontend Developer with a passion for creating education- and community-focused web applications that solve real-world challenges. I bring over 8 years of experience in education into my 5+ years of web development practice, striving to build accessible, useful apps for users from all backgrounds.
+
+📫 **Want to Collaborate?**
+
+I welcome feedback, project ideas, or collaboration opportunities! Feel free to connect with me via GitHub or [check out my portfolio](https://nadinepesso.com) for more.
 
 **Have fun browsing!**
-
-Any feedback is highly appreciated.
-
-[Check out my Portfolio Website](https://nadinepesso.com)
 
 ---
 
